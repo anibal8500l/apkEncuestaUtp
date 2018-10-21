@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">apkEncuesta</string>
+    <string name="title_inicio">Inicio</string>
+    <string name="title_perfil">Perfil</string>
+    <string name="title_busqueda">Busqueda</string>
+    <string name="title_compartir">Compartir</string>
+</resources>
